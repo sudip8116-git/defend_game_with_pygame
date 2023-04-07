@@ -234,6 +234,4 @@ class Game(Window):
             super().update()
 
 
-if __name__ == "__main__":
-    game = Game()
-    game.startGame()
+
